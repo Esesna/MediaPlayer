@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#478BA2</color>
+    <color name="colorPrimaryDark">#386E81</color>
+    <color name="colorAccent">#F2A490</color>
+    <color name="colorMediaBar">#FFFFFF</color>
+    <!--color name="PlayDown">#9ABAC2</color>
+    <color name="PlayUp">#B9D4DB</color>-->
+    <color name="PlayDown">#E6E4E4</color>
+    <color name="PlayUp">#FFFFFF</color>
+</resources>
